@@ -55,5 +55,3 @@ IT Management graduate with strong background in mathematics, programming, and n
 - GitHub-ready skills: Mathematical modeling, data analysis, web development, IT systems.  
 - LinkedIn: Zahra Azadeh  
 - Website: shirinshadino.com
-
-Would you like me to reformat this into a GitHub README-style profile (with markdown sections like “Skills”, “Projects”, “Certifications”) so you can directly upload it to your GitHub page?
